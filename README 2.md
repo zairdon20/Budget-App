@@ -226,7 +226,7 @@ Feel free to check the [issues page](https://github.com/fobadara/cochef-recipes/
 This project is licensed by [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./MIT.md)
 
 ## Show your support 💪
-Give a ⭐️ if you like this project!
+Give a ⭐️ if you like this app!
 
 ## Acknowledgments
 
