@@ -209,7 +209,7 @@ You can paste or type it on url bar
 
 Contributions, issues, and feature requests are greatly appreciated!
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "improvements".
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "improvements or suggestions".
 
 - Fork the Project
 - Create your Feature Branch (git checkout -b feature/yourfeaturename)
@@ -226,10 +226,11 @@ Feel free to check the [issues page](https://github.com/fobadara/cochef-recipes/
 This project is licensed by [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./MIT.md)
 
 ## Show your support 💪
-Give a ⭐️ if you like this project!
+Give a ⭐️ if you like this project or buy me a coffee!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
+- Hat tip to anyone whose code was used.
+  
 
 <p align="right">(<a href="#top">back to top</a>)</p>
